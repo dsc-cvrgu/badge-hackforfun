@@ -228,7 +228,7 @@ const BadgeModule = () => {
             </h5>
           </div>
 
-          <img src={logo} className="logo" alt="DSC WOW Logo" />
+          <img src={logo} className="logo" alt="DSC CVRGU Logo" />
         </div>
 
         <div className="preview-panel">
